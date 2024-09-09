@@ -1,5 +1,7 @@
 # Emotion Recognition Telegram Bot
 
+![Bot Example](example.png)
+
 This project implements a Telegram bot that can recognize emotions from faces in photos. It uses `DeepFace` for emotion detection and `opencv` for image processing. The bot allows users to send a photo, and it will analyze the face(s) in the image, predict the dominant emotion(s), and send the photo back with labeled emotions along with a text response based on the detected emotion.
 
 ## Features
